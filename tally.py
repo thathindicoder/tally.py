@@ -4,7 +4,7 @@ from tkinter import ttk
 # Make a window called root and set properties
 root = Tk()
 root.geometry('200x200')
-root.title("Tally by Yousuf")
+root.title("Tally by THC")
 
 # Make a frame. I don't know how to describe this...
 frm = ttk.Frame(root, padding=10)
