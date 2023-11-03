@@ -14,7 +14,7 @@ frm.grid()
 num = 0
 
 # TIME FOR GUI (pronounced 'Gooey')
-ttk.Label(frm, text="Tally (by Yousuf)").grid(column=0, row=0)
+ttk.Label(frm, text="Tally (by THC)").grid(column=0, row=0)
 ttk.Button(frm, text="Quit", command=root.destroy).grid(column=1, row=0)
 numbereighter = ttk.Label(frm, text=num)
 numbereighter.grid(column=0, row=3)
